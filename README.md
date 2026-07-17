@@ -12,10 +12,23 @@ A dynamic and responsive web application built with React.js that allows users t
 - **API Integration:** Consumes RESTful API endpoints efficiently.
 
 ## Tech Stack 🛠️
-- **Frontend:** React.js, JavaScript (ES6+), CSS3
+- **Frontend:** React.js, JavaScript (ES6+)
+- **Styling:** CSS3
 - **Hosting/Deployment:** Vercel
 
 ## How to Run Locally 💻
+
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/moadel4404/Meal-Explorer-ReactJS.git](https://github.com/moadel4404/Meal-Explorer-ReactJS.git)
+```bash
+git clone https://github.com/moadel4404/Meal-Explorer-ReactJS.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
